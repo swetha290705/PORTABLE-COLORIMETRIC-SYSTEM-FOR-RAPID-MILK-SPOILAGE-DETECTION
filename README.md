@@ -1,0 +1,2 @@
+# PORTABLE-COLORIMETRIC-SYSTEM-FOR-RAPID-MILK-SPOILAGE-DETECTION
+AI-Enabled Portable Milk Spoilage Detection System combines colorimetric sensing and TinyML to rapidly detect milk spoilage. The device analyzes color changes caused by microbial activity and predicts milk quality in real time. It is portable, low-cost, energy-efficient, and suitable for dairy farms, collection centers, and rural applications.
